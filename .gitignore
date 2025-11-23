@@ -208,7 +208,7 @@ __marimo__/
 
 
 my_timesheet.html
-pyenv.cfg
+pyvenv.cfg
 Include/
 Lib/
 Scripts/
